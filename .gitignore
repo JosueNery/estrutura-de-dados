@@ -1,6 +1,6 @@
 # Compiled class file
 *.class
-.target/
+fila-pilha/target
 
 # Log file
 *.log
